@@ -1,2 +1,2 @@
 # ASL-Recognition
-American Sign Language Alphabets Recognition
+Real Time American Sign Language Alphabets Recognition
