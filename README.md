@@ -5,7 +5,7 @@ Dataset: [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 * _Image data set for alphabets in the American Sign Language_
 
-Live Link: (https://asl-recognition.streamlit.app)
+Live Link: https://asl-recognition.streamlit.app
 
 
 &nbsp; 
