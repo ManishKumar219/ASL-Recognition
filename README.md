@@ -1,4 +1,4 @@
-# ASL-Recognition
+# ASL Alphabet Recognition
 Real Time American Sign Language Alphabets Recognition :+1: :metal:
 
 Dataset: [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
